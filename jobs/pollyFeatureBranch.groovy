@@ -81,7 +81,7 @@ freeStyleJob('Terraform-Polly/Terraform-Polly-Feature-Branch') {
         cleanWhenFailure(true)
         cleanWhenNotBuilt(true)
         cleanWhenSuccess(true)
-        cleanWhenUnstable(true)
+        cleanWhenUnstable(true1)
       }
     }
 }
