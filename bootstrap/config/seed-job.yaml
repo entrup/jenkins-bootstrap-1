@@ -9,7 +9,7 @@
     scm {
       git {
         remote {
-          url('git@github.com:entrup/jenkins-bootstrap.git')
+          url('git@github.com:adieldadi/jenkins-bootstrap.git')
           credentials('jenkins-github-ssh')
         }
         branch('master')
